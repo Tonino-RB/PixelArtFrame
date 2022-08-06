@@ -4,6 +4,8 @@
 
 Bienvenue dans ce codeception. Il s'agit en effet d'un code python transformant une ou plusieur images en un code arduino, fonctionnant grâce à la librairie FASTLED NEOMATRIX, afin d'afficher lesdites images sur une matrice de LED ws2812b de 8*8. Le projet à été pensé pour une matrice de 8x8 et un arduino nano. 
 
+L'image test aide à savoir savoir si la matrice est dans le bon sens. La matrice doit afficher une flèche pointant vers le haut. 
+
 Il est recommandé d'utiliser un environnement virtuel. A tire personnel j'utilise Pycharm CE.
 
 Pour le bon fonctionnement du code il est nécéssaire d'installer les librairies suivvante :
